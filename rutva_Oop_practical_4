@@ -37,4 +37,8 @@ public class BMICalculator {
 
 
 Output:
+enter your weight in pounds : 150
+enter your height in inches: 65
+your BMI is ; 24.96
+       
 
